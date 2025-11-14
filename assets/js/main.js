@@ -338,7 +338,7 @@
           $('#site-logo-inner').find('img').attr({src:tfheader,width:'96px',height:'94px'});
   
           var tfmobile =$('#mobile-logo_header').data('retina');
-          $('.mobile-nav-wrap').find('img').attr({src:tfmobile,width:'121px',height:'117px'});
+          $('.mobile-nav-wrap').find('img').attr({src:tfmobile,width:'80px',height:'80x'});
   
           var tffooter =$('#logo_footer').data('retina');
           $('#logo-footer').find('img').attr({src:tffooter,width:'121px',height:'117px'});
